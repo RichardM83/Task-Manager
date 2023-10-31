@@ -2,7 +2,7 @@
 
 Submitted by: **Richard Martinez**
 
-**Task Manager** is an app that allows the user to input personal tasks into a calendar system for the user to organize their lifestyle.
+**Task Manager** is an app that allows the user to input personal tasks into a calendar system for the user to organize their lifestyle. It uses UX/UI design that is easily readable to the user.
 
 Time spent: **14** hours spent in total
 
